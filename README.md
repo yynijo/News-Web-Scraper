@@ -9,8 +9,9 @@ Invite link: https://t.me/+BVip3te739Q2OGE1
 *The bot only sends the link to the articles. You will only be able to view the articles if you yourself have a premium subscription like I do
 
 # Required Libraries
-- requests
 - BeautifulSoup
+- Playwright
+- urllib
 - constants
 - telegram
 - logging
